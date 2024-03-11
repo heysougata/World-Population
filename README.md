@@ -1,6 +1,6 @@
 
-# <center> World-Population-Analysis-2023 </center>
-## ## PRODIGY_DS_01
+# <center>World-Population-Analysis-2023</center>
+## PRODIGY_DS_01
 
 ## Problem Statement :
 
